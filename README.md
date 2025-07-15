@@ -19,8 +19,7 @@ An interactive Streamlit web application that allows users to interact with a ch
 bash
 Copy
 Edit
-git clone https://github.com/1Chizey/deep_learning_and_neural_networks_checkpoint.git
-cd deep_learning_and_neural_networks_checkpoint
+
 2. Install Required Libraries
 bash
 Copy
